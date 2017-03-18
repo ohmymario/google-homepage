@@ -1,0 +1,30 @@
+* {
+	color: black;
+	font-family: arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #3f3f3f;
+	margin: 5px;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.navigation {
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.right-justify {
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.navlinks {
+	font-size: 0.8em;
+}
